@@ -1,1 +1,1 @@
-# Game---Black-Corner---Line-Connection-Puzzle
+# Black Corner Game
